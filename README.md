@@ -97,5 +97,6 @@
 ### [대표 업무 문서]
 ![image](https://github.com/bboooyaho/SwimFlow/assets/60571718/935022f8-108d-4363-9603-cb39770a1002)
 
-[ERD 설계]
+### [ERD 설계]
+
 ![image](https://github.com/bboooyaho/SwimFlow/assets/60571718/621216e9-1619-4989-9c0d-33c19681ad31)
